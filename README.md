@@ -12,3 +12,6 @@ $(SRCROOT)/ktv/lb.order
 
 
 Write Link Map File 可以查看结果
+
+
+将controller中的代码拷贝到对应的文件就行
